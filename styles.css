@@ -772,7 +772,7 @@
   .fade-in.appear {
     opacity: 1;
     transform: translateY(0);
-=======
+  }
 :root {
     --pink: #fa79c0;
     --lavender: #C4B5FD;
@@ -1546,5 +1546,4 @@
   .fade-in.appear {
     opacity: 1;
     transform: translateY(0);
->>>>>>> 270b6cc1111248a8d16f078169563dc122b074e3
   }
